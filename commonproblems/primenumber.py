@@ -12,8 +12,6 @@ def is_prime(n: int) -> bool:
             return False
         i += 6
     return True
-
-# quick tests
 print(is_prime(2))    # True
 print(is_prime(37))   # True
 print(is_prime(100))  # False
