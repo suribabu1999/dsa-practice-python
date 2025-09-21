@@ -1,9 +1,7 @@
 #finidng all the sub arrays of some fixed size 
 
 def sub_array(arr,k):
-
     n = len(arr)
-
     window = arr[0:k] #intial window of size k
     result = []
     result.append(window[:]) #first window append to result
