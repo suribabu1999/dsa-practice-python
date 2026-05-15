@@ -8,7 +8,7 @@ A **string** is a sequence of characters stored in memory. It can contain letter
 
 ```python
 s = "Hello, World!"
-```
+``` 
 
 Strings are:
 - **Immutable** in most languages (Python, Java, JavaScript)
