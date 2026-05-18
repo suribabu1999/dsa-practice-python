@@ -509,9 +509,4 @@ M — Membership   → Found inside? 🔍
 
 ---
 
-> 📚 **Further Reading:**
-> - [Python Docs — Expressions & Operators](https://docs.python.org/3/reference/expressions.html)
-> - [Python Operator Precedence Table](https://docs.python.org/3/reference/expressions.html#operator-precedence)
-> - [Real Python — Operators and Expressions](https://realpython.com/python-operators-expressions/)
 
----
