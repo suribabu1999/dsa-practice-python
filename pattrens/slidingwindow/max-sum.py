@@ -2,6 +2,7 @@ list1 = [1,2,3,4,5,6,7,8,9]
 k = 3
 
 initial_window_sum = sum(list1[0:k])
+print(initial_window_sum)
 max_sum = 0
 
 for i in range(k, len(list1)):
