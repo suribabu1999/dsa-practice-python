@@ -10,3 +10,5 @@ def pallendrome(string):
 
 
 print(pallendrome("kjsdf"))
+
+list1 = [1, 2, 3, 4, 5, 10, 6, 7, 8, 9]
