@@ -7,9 +7,22 @@ students = [
     ("Meena", 85)
 ]
 
-highest_mark = max(mark for name, mark in students)
+# first take out all the marks to find the highist marks 
 
+marks = [mark for name, mark in students ]
+h_marks = max(marks)
+print("highest marks ===>>>" ,h_marks)
+
+names = [name for name, mark in students]
+print("names present in the tuple---->",names)
+
+print(marks)
+
+highest_mark = [mark for name, mark in students]
 top_students = []
+
+top_student = [name for name, mark in students if mark == h_marks]
+print("top student ------->",top_student)
 
 for name, mark in students:
     if mark == highest_mark:
