@@ -23,3 +23,6 @@ print("Cube of given number ", cube(2))
 even = lambda x : x % 2 == 0
 
 print(even(4))
+
+even2 = lambda x : x%2 ==0
+print(even2(4))
